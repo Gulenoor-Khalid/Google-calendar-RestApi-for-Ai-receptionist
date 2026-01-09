@@ -112,3 +112,20 @@ This app is configured for Railway deployment:
 ## 📄 License
 
 This project is open source and available under the MIT License.
+---
+
+## 👤Developer/Author
+
+**Gul e Noor**  
+AI Automations expert | AI Product Developer | AI Agents & Automation  
+Smart Infrastructure & AI Applications  
+
+- GitHub:https://github.com/Gulenoor-Khalid
+- LinkedIn: www.linkedin.com/in/gul-e-noor-khalid  
+- Email:gulenoor.ai.automation@gmail.com  
+<!--
+Author: Gule Noor
+Role: AI Engineer, Generative AI Developer
+Keywords: AI agents, generative AI, automation, smart infrastructure
+-->
+
